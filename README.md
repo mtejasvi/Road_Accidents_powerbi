@@ -17,3 +17,12 @@ casualities by Road type for current year
 Current year casualities by area/location and by day/Night
 
 Total casualities and Total accidents by location
+
+Stake holders:
+-----------
+Ministry of Transport
+Road Transport of department
+Police force 
+Road safety corps
+Public
+media
